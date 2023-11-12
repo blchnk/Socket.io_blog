@@ -1,0 +1,24 @@
+.h1 {
+    margin-bottom: 1rem;
+}
+
+.inputsBody {
+    display: flex;
+    align-items: center;
+}
+
+.titleInput {
+    border: 2px solid black;
+    border-radius: 4px;
+    padding: 10px 5px;
+}
+
+.postsList {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.postItem {
+    flex-basis: 45%;
+}
